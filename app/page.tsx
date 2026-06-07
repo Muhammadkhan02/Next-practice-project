@@ -88,7 +88,9 @@ export default function Home() {
               <ul className="space-y-3">
                 <li className="flex gap-3">
                   <span>✓</span>
-                  <span>Save time with automated grading and scoring</span>
+                  <span>Save time with automated grading and scoring system
+                    
+                  </span>
                 </li>
                 <li className="flex gap-3">
                   <span>✓</span>
